@@ -1,8 +1,8 @@
-name: "Pianfan's blog"
-description: "翩帆的个人技术博客"
+name: "haobaiawa's blog"
+description: "浩白的个人技术博客"
 
-avatar: https://pianfan.github.io/images/avatar.png
-favicon: https://pianfan.github.io/images/favicon.ico
+avatar: https://pic2.imge.cc/2024/11/09/672ef58f3c681.jpg
+favicon: https://pic2.imge.cc/2024/03/27/66041c0faf3da.png
 
 navigation:
   - name: 首页
@@ -18,16 +18,16 @@ excerpt_separator: <!-- more -->
 
 footer-links:
   zhihu: 
-  email: xiongyunhan@outlook.com
+  email: 3418935797@qq.com
   facebook:
-  github: pianfan
+  github: haobaiawa
   rss: # just type anything here for a working RSS icon
   twitter: 
   youtube:
 
-footer-text: Copyright (c) 2024 Pianfan
+footer-text: Copyright (c) 2024 haobai
 
-url: https://pianfan.github.io
+url: https://haobaiawa.github.io
 
 permalink: /:title/
 paginate_path: /page:num/
