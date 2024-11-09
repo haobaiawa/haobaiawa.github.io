@@ -1,9 +1,8 @@
 name: "haobaiawa's blog"
 description: "浩白的个人技术博客"
 
-avatar: https://pic2.imge.cc/2024/11/09/672ef58f3c681.jpg
-favicon: https://pic2.imge.cc/2024/03/27/66041c0faf3da.png
-
+avatar: https://pic2.imge.cc/2024/11/09/672efdc3726f2.png
+favicon: https://pic2.imge.cc/2024/11/09/672efdc3726f2.png
 navigation:
   - name: 首页
     url: /
